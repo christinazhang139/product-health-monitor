@@ -1,31 +1,24 @@
-# Product Health Monitor
+# AI-Powered Product Analytics & Decision Intelligence Platform
 
-An interactive presentation showcasing a product health monitoring dashboard design — covering key metrics, alert strategies, and data-driven decision frameworks.
+Built an enterprise-style product intelligence platform that combines telemetry, customer feedback, subscription analytics, support operations, engineering efficiency, and revenue insights into a unified decision-making experience.
+
+Designed to simulate how modern AI-driven product organizations monitor product health across the full customer lifecycle, the platform transforms fragmented operational data into actionable business intelligence for Product Managers, Support teams, Engineering leaders, and Business stakeholders.
 
 ## Live Demo
 
-**[View the presentation →](https://christinazhang139.github.io/product-health-monitor/)**
+**[View the interactive presentation →](https://christinazhang139.github.io/product-health-monitor/)**
 
-## Overview
+## Key Features
 
-This project presents a comprehensive product health monitoring system design, including:
-
-- **Core Health Metrics** — engagement, retention, performance, and error tracking
-- **Alert & Threshold Design** — how to set meaningful alerts without noise
-- **Dashboard Architecture** — from executive summary to deep-dive views
-- **Data Pipeline Design** — real-time and batch processing for health signals
+- **Product Adoption & Usage Analytics** — track engagement, activation, and retention metrics
+- **Customer Feedback & Support Insights** — synthesize NPS, CSAT, and support ticket patterns
+- **Subscription & Revenue Trend Analysis** — monitor MRR, churn, expansion, and cohort performance
+- **Release Impact & Engineering Efficiency Tracking** — measure deployment frequency, lead time, and incident response
+- **AI-Assisted Business Insight Generation** — surface anomalies, trends, and recommendations automatically
 
 ## Tech Stack
 
-- Pure HTML/CSS/JavaScript — no frameworks, no dependencies
-- Responsive slide-based presentation with smooth transitions
-- Designed for 1280×720 viewport
-
-## Usage
-
-Open `index.html` in any modern browser, or visit the [GitHub Pages demo](https://christinazhang139.github.io/product-health-monitor/).
-
-Navigate with arrow keys or the bottom navigation bar.
+`Snowflake` · `Tableau` · `SQL` · `AI Analytics`
 
 ## Author
 
