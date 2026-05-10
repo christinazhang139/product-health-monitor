@@ -1,8 +1,16 @@
 # AI-Powered Product Analytics & Decision Intelligence Platform
 
-Built an enterprise-style product intelligence platform that combines telemetry, customer feedback, subscription analytics, support operations, engineering efficiency, and revenue insights into a unified decision-making experience.
+![Cover](screenshots/cover.png)
 
-Designed to simulate how modern AI-driven product organizations monitor product health across the full customer lifecycle, the platform transforms fragmented operational data into actionable business intelligence for Product Managers, Support teams, Engineering leaders, and Business stakeholders.
+## Why This Project
+
+In large product organizations, critical signals — usage telemetry, customer feedback, subscription data, support cases, engineering metrics — are scattered across dozens of tools and databases. No single team has a complete picture of product health.
+
+Product Managers check Tableau for usage, open Jira for bugs, query Snowflake for revenue, and read support tickets in yet another tool. By the time insights are stitched together manually, the window for proactive action has already passed.
+
+**This project exists to solve that problem**: a unified intelligence layer that pulls fragmented data into one coherent view, augmented by AI to surface what matters — before it becomes a fire.
+
+![Problem](screenshots/slide2.png)
 
 ## Live Demo
 
