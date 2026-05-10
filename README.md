@@ -4,11 +4,11 @@
 
 ## Why This Project
 
-In large product organizations, critical signals — usage telemetry, customer feedback, subscription data, support cases, engineering metrics — are scattered across dozens of tools and databases. No single team has a complete picture of product health.
+In large product organizations, critical signals like usage telemetry, customer feedback, subscription data, support cases, and engineering metrics are scattered across dozens of tools and databases. No single team has a complete picture of product health.
 
-Product Managers check Tableau for usage, open Jira for bugs, query Snowflake for revenue, and read support tickets in yet another tool. By the time insights are stitched together manually, the window for proactive action has already passed.
+Product Managers check Tableau for usage. Engineering leads open Jira for bugs and velocity. Support teams track cases in their own system. Business stakeholders query Snowflake for revenue. By the time insights are stitched together manually, the window for proactive action has already passed.
 
-**This project exists to solve that problem**: a unified intelligence layer that pulls fragmented data into one coherent view, augmented by AI to surface what matters — before it becomes a fire.
+This project exists to solve that problem: a unified intelligence layer that pulls fragmented data into one coherent view, augmented by AI to surface what matters before it becomes a fire.
 
 ![Problem](screenshots/slide2.png)
 
